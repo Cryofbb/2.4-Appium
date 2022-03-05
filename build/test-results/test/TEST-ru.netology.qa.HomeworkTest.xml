@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.qa.HomeworkTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-03-05T15:12:55" hostname="DESKTOP-K8JTBK1" time="5.069">
+  <properties/>
+  <testcase name="enterSpaceTest()" classname="ru.netology.qa.HomeworkTest" time="2.309"/>
+  <testcase name="emptyStringTest()" classname="ru.netology.qa.HomeworkTest" time="1.343"/>
+  <testcase name="newActivityTest()" classname="ru.netology.qa.HomeworkTest" time="1.416"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[мар. 05, 2022 6:12:55 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
